@@ -1,0 +1,70 @@
+Slide 1 -Script:
+
+Slide 1 – AI Fake News Detector (Very Short)
+"Hello everyone,
+
+This is our mini project – AI Fake News Detector.
+
+It’s a simple Python tool to identify fake news headlines.
+
+I’m Ravichandra, and along with my team — Sravya, Kalpana, and Latha Sri — we’re excited to show you our work.
+
+Let’s get started!"**
+
+Slide 2 – Introduction to Fake News Detection (Short Script)
+
+“Fake news spreads fast and affects public trust.
+It often goes viral through misinformation.
+
+Our goal was to build a tool that tackles this problem.
+We used a simple method: keyword scoring, confidence percentage, and a user-friendly GUI — no internet or ML needed.”
+
+ Slide 3 – Importance of Fake News Today (Short Script)
+
+“Fake news causes real damage — it spreads misinformation, breaks public trust, and divides society.
+
+Our tool uses simple AI logic — based on keyword scoring — to classify headlines, without using complex machine learning.”
+Slide 4 – News Classification Objectives (Short Script)
+“Our tool classifies news headlines as Fake, Real, or Uncertain,
+
+and also shows a confidence percentage for each result.
+
+This helps users quickly judge if the news they see online is trustworthy.”
+
+Slide 5 – Tech Stack Overview (Short Script)
+“We used Python 3 with Tkinter to build the GUI.
+
+Our dataset uses custom-weighted keywords to detect whether a headline is fake or real.
+
+The setup is light, simple, and doesn’t need any external libraries or machine learning models.”
+Slide 6 – Script:
+“This project was a true team effort.
+
+Each member played a key role—from dataset research to GUI development and testing.
+
+Together, we planned, coded, reviewed, and refined every step to make this project functional and user-friendly.”
+Slide 7 – Script:
+“We used a simple keyword-based dataset.
+
+Specific words linked to fake or real news were selected and given weights.
+
+This helps the system score headlines and detect fake news more accurately.”
+Slide 8 - Script:
+This is our detection engine. It uses weighted keywords to score news, driving a workflow that provides a final, definitive classification.
+Slide 9 -Script:
+"Hey everyone! This is how we've designed the user interface using Tkinter. We've made sure to use color-coding so you can easily see how news articles are classified. Plus, it's super simple to move around and use!"
+Slide 10 - Script:
+"Now, let's talk about how we ensured the application is reliable. Our testing and debugging strategies were essential for input validation and bug fixing. By comparing the application's actual performance against our expected results, we can confidently say that it functions correctly and meets user needs."
+Slide 11 -Script:  you can ignore it but show some text about this
+Slide 12 - Script:
+"This slide is all about our Integration and Real-Time Demo. We'll show you how all the different modules work together seamlessly and then demonstrate how our detector analyzes live data for instant results."
+Slide 13 - Script:
+"In conclusion, we have a working fake news detector. For the future, we plan to use a live API, incorporate ML models, and expand our keyword dataset."
+Slide 14 - Script:
+"We've reached the end. We're so grateful for all the support we received from our mentors and teachers. Our team did an amazing job working together. Thank you for listening, and we're ready for your questions."
+
+
+
+
+
+

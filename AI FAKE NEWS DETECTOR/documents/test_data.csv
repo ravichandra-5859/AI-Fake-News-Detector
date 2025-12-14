@@ -1,0 +1,7 @@
+headline,expected_result,min_confidence
+"Official statement from White House",Real News,80
+"BREAKING: Alien invasion happening now!",Fake News,75
+"New scientific research published",Real News,70
+"Click here to win $1,000,000",Fake News,90
+"Regular news about economy",Unclear,0
+"Satire: President reveals secret",Unclear,40
